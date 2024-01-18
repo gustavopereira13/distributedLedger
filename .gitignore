@@ -2,3 +2,7 @@ src/target/*
 src\target\*
 src/main.exe
 src/main.pdb
+src/*.lock
+src\*.lock
+src/*.iml
+src\*.iml
