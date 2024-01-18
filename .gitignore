@@ -1,2 +1,4 @@
 src/target/*
 src\target\*
+src/main.exe
+src/main.pdb
