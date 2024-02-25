@@ -1,0 +1,8 @@
+- main.rs
+- lib.rs para módulos, testes e constantes
+- Protocol.rs - High level protocol
+- network.rs - Low level network c RPCs (hand in hand com o protocol.rs)
+- Node.rs p criar nós e maybe getters
+- Key.rs para o atributo ID do node (mostly crypto stuff)
+- routing.rs para funções da routing table + kbuckets
+- perhaps utils.rs
